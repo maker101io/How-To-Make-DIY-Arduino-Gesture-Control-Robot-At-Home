@@ -1,5 +1,5 @@
 # How To Make DIY Arduino Gesture Control Robot At Home
-In this project I am going to show you how to make a DIY Arduino Gesture Control Robot. </br>
+In this project I am going to show you how to make a DIY Arduino Gesture Control Robot. </br> </br>
 ![](GestureRobotControl-01.png) </br> </br>
 # Video Tutorial
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/64NS91KmK84/0.jpg)](http://www.youtube.com/watch?v=64NS91KmK84)</br></br>
@@ -31,7 +31,7 @@ Please subscribe ❤️ For all lovers of #ArduinoGestureRobot #ArduinoProjects 
 ![](GestureRobotControlReceiverSchematic.png) </br> </br>
 ![](GestureRobotControlTransmitterSchematic.png) </br> </br>
 # Get the PCB Board:
-(If you want to buy the same PCB which one I used in this project. Just download the Gerber file and upload it to https://www.pcbway.com/ to order the PCB board.) </br>
-$0 For New members first order & Low Price for PCB Stencil at https://www.pcbway.com/  </br>
-👉🏻 </br>
+(If you want to buy the same PCB which one I used in this project. Just download the Gerber file and upload it to https://www.pcbway.com/ to order the PCB board.) </br></br>
+$0 For New members first order & Low Price for PCB Stencil at https://www.pcbway.com/  </br></br>
+👉🏻 </br></br>
 😊 Contact Me: https://www.instagram.com/mertarduino
